@@ -1,5 +1,4 @@
-# CS-433: Machine Learning Fall 2022, Project 2 
-- Topic: *Machine learning in finance - Forecasting and Trading*
+# Machine learning in finance - Forecasting and Trading
 - Team Name: Bogota
 - Team Member:
     1. Lelièvre Maxime, **SCIPER: 296777** (maxime.lelievre@epfl.ch)
